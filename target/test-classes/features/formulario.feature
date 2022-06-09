@@ -3,7 +3,7 @@
     I a new client
     I want to register my data
     to have my updated information
-  Scenario: : Form registration with valid data
+  Scenario: : Successful registration and login
     Given that the DEMOQA website is available
     When register my data
     And I click on the button
